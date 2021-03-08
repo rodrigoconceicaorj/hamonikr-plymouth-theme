@@ -1,0 +1,14 @@
+Source: hamonikr-plymouth-theme
+Section: admin
+Priority: optional
+Maintainer: Kevin Kim <chaeya@gmail.com>
+Standards-Version: 4.1.4
+
+Package: hamonikr-plymouth-theme
+Architecture: all
+Depends:
+Conflicts: 
+Replaces: ubuntu-system-adjustments, mint-artwork, mint-artwork-common, mintsystem
+Homepage: https://hamonikr.org
+Description: hamonikr plymouth theme
+  하모니카 plymouth theme

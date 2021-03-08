@@ -1,0 +1,24 @@
+hamonikr-plymouth-theme (2.0.0) entjin; urgency=medium
+
+  * Release for Server 2.0
+   - Changed background color
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 08 Mar 2021 13:35:58 +0900
+
+plymouth-theme-hamonikr (1.1.2) focal; urgency=medium
+
+  * Changed background color
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 07 Nov 2020 17:18:32 +0900
+
+plymouth-theme-hamonikr (1.1.1) focal; urgency=medium
+
+  * Changed theme resource and theme file
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 05 Nov 2020 15:53:14 +0900
+
+plymouth-theme-hamonikr (1.0.0) focal; urgency=medium
+
+  * build on HamoniKR 4.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 17 Oct 2020 18:18:56 +0900
